@@ -1,4 +1,4 @@
-package hh;
+package hh.task;
 
 import java.util.*;
 import java.util.stream.Collectors;
